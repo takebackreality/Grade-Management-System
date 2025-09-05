@@ -7,7 +7,7 @@
 #include <string>
 #include <limits>
 #include <iomanip>
-using namespace std
+using namespace std;
 
 const int MAX = 5; // max number of students
 
